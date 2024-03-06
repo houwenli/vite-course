@@ -1,0 +1,39 @@
+
+
+.footer {
+  width: 200px;
+  height: 200px;
+  background-color:aquamarine;
+}
+
+.footer .footer-content {
+  width: 200px;
+  height: 100px;
+  background-color:brown;
+}
+
+
+.header {
+  width: 200px;
+  height: 100px;
+  background-color:aquamarine;
+}
+
+.header-test {
+  width: 200px;
+  height: 100px;
+  background-color:aquamarine;
+}
+
+
+.wraper {
+  width: 200px;
+  height: 100px;
+  background-color:aquamarine;
+}
+
+.wraper11 {
+  width: 200px;
+  height: 100px;
+  background-color:aquamarine;
+}
